@@ -1,0 +1,6 @@
+Backend, Node.js & npm 
+
+some commamd npm: npm.cmd init (This command create package)
+
+npm i slugify download package of node module (in your system work npm.cmd i slugify)
+slugify is the package that make string to slugify that remove spaces from URL
