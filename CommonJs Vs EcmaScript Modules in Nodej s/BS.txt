@@ -1,0 +1,13 @@
+
+
+nodemon live server (install nodemon using npm i --global nodemon)
+
+if you want to run server nodemon file name (ex:main.js)
+
+There are two types of export 
+  1. name export
+  2. default export
+
+ "type": "module",(if you remove from package it was through error)
+   ex: import Jk from "./mymodule.js";
+       console.log(Jk)
