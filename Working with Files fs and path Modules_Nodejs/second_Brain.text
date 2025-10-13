@@ -1,0 +1,26 @@
+fs.writeFileSync(do not fs.writeFileSync  file it will create problem for big project)
+
+fs.writeFile(used this ,this used call back  )
+
+      
+      
+        console.log("starting ")
+ fs.writeFileSync("Ashwin.text","Ashwin is learning backend")
+
+ fs.writeFile("Ashwin2.text","Learning a backend enjoyable I am enjoying this journey",()=>{
+     console.log("done")
+    fs.readFile("Ashwin2.text",(error,Date) =>{
+        console.log(error,Date.toString())
+    })
+ }) //(readFile these codes are not maintable create callback hell insteact used this
+ 
+         fs.appendFile("Ashwin.text","yah bro",(e,d) =>{
+          console.log(d)
+                  })
+       
+ 
+ )
+
+
+
+ if you used module (write "type":"module" package json that after you  would used module )
