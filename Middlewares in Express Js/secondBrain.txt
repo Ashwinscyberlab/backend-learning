@@ -1,0 +1,9 @@
+npm init -y creating a package
+npm i express@4 (instralling a express)
+nodemon file.js(starting a server)
+
+                 Middleware
+
+    Middleware has a modify your request
+    req => sending a request
+    res => getting response
