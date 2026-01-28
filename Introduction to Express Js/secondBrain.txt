@@ -1,0 +1,6 @@
+npm i --global nodemon
+nodemon main.js(starting server if you changingsomething it will automatic change)
+npm init -y(creat project package)
+
+Introduction to Express Js
+installing Express (npm i express@4)
