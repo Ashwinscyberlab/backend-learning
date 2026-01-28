@@ -1,0 +1,9 @@
+Response, Request and Routers in Express 
+
+
+
+
+postman using to checked API It is a industries standard
+(post uses to checked api also you share and export )
+
+Express Router used to organised things 
