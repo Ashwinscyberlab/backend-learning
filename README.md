@@ -8,4 +8,9 @@ Introduction to Express Js,
 Response, Request and Routers in Express,
 Middlewares in Express Js, 
 Exercise  - Clear the Clutter,
-ejs Template Engine in Express 
+ejs Template Engine in Express ,
+Installing MongoDB & MongoDB Compass CRUD Operations in MongoDB ,
+Installing Mongoose & Using it with Express,
+Exercise 16 - Dummy Data Generator ,
+Tailwind CSS in one Video
+
